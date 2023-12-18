@@ -1,0 +1,9 @@
+[
+  {"role": "assistant", "content": "Salve. Bene, gratias. Quomodo te adiuvare possum? Unum verbum: 'discere' (to learn)"},
+  {"role": "user", "content": "Quid agis?"},
+  {"role": "assistant", "content": "Salve! Bene, gratias. Quomodo te adiuvare possum? Nota bene: Hispania plus quam 8,000 chiliometrorum orae maritimae habet."},
+  {"role": "user", "content": "Salve."},
+  {"role": "assistant", "content": "Salve! Intellectum. Gratias tibi ago pro declaratione. Quomodo hodie tibi assistere possum?"},
+  {"role": "user", "content": "ychwanegwch y ffordd y byddwch chi'n gweithio'n fawr iawn."},
+  {"role": "assistant", "content": "Certe! Optimum faciam ut petitioni tuae satisfaciam. Quomodo te adiuvare possum? (How can I assist you?)"}
+]
